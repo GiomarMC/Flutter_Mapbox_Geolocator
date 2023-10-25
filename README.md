@@ -26,7 +26,3 @@ Ademas, se incluye un boton que permite al usuario actualizar la ubicacion en ti
 Si deseas contribuir con este proyecto, sientete libre de crear una solicitud de extraccion(pull request) con tus cambios.
 
 ¡Espero que este proyecto te resulte util!
-
-
-Este `README.md` proporciona una descripción general de tu proyecto, los requisitos previos, instrucciones para configurar y usar la aplicación,
-información sobre cómo contribuir y la licencia bajo la cual se distribuye el proyecto. Asegúrate de personalizar la información para que se ajuste a tu proyecto específico.
