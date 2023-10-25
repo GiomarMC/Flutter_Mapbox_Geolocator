@@ -1,6 +1,6 @@
 # flutter_mapbox
 
-A new Flutter project that shows the location fo the device in real time located on the map.
+A new Flutter project that shows the location of the device in real time located on the map.
 
 ## Getting Started
 
